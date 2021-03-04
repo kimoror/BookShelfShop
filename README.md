@@ -1,3 +1,3 @@
 # BookShelfShop
 
-Practice for DevOps Mirea 2-nd cours
+Practice for DevOps Mirea 2-nd cours.
