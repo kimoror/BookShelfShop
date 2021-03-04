@@ -1,4 +1,4 @@
-package mirea.hello.bookshelf;
+package bookshelf;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

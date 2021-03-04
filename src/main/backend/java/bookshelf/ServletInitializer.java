@@ -1,5 +1,6 @@
-package mirea.hello.bookshelf;
+package bookshelf;
 
+import bookshelf.Main;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
